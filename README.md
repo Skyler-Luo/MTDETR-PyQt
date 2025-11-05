@@ -1,6 +1,6 @@
 # 🚗 MTDETR-PyQt: 基于 Transformer 的多任务交通视觉感知系统
 
-一个面向交通场景的多任务视觉系统，集成 Multi-task Transformer(MTDETR) 架构的 RMT-PPAD 与 实时目标检测模型 YOLOv10，通过现代化的 PyQt5 + PyQt-Fluent-Widgets 图形界面，提供图片/视频/批量文件的检测、实时预览、结果分析、性能监控与历史追溯等完整功能。
+一个面向交通场景的多任务视觉系统，集成 Multi-task Transformer(MTDETR) 架构的 [RMT-PPAD](https://github.com/JiayuanWang-JW/RMT-PPAD) 与 实时目标检测模型 [YOLOv10](https://github.com/THU-MIG/yolov10)，通过现代化的 PyQt5 + PyQt-Fluent-Widgets 图形界面，提供图片/视频/批量文件的检测、实时预览、结果分析、性能监控与历史追溯等完整功能。
 
 ![软件运行截图](images/img.png)
 
